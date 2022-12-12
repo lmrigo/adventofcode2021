@@ -25,7 +25,7 @@ var part1 = function() {
     }
 
     var result = increasedCount
-    // console.log(result)
+    // 1676
     $('#part1').append(input[i])
       .append('<br>&emsp;')
       .append(result)
@@ -47,7 +47,7 @@ var part2 = function () {
     }
 
     var result = increasedCount
-    // console.log(result)
+    // 1706
     $('#part2').append(input[i])
       .append('<br>&emsp;')
       .append(result)

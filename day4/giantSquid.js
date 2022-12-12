@@ -74,7 +74,7 @@ var part1 = function() {
     // console.log(winnerBoard, lastDrawn, allUnmarkedSum)
 
     const result = lastDrawn * allUnmarkedSum
-    // console.log(result)
+    // 82440
     $('#part1').append(input[i])
       .append('<br>&emsp;')
       .append(result)
@@ -171,7 +171,7 @@ var part2 = function () {
     // console.log(winnerBoard, lastDrawn, allUnmarkedSum)
 
     const result = lastDrawn * allUnmarkedSum
-    // console.log(result)
+    // 20774
     $('#part2').append(input[i])
       .append('<br>&emsp;')
       .append(result)

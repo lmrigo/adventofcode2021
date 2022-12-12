@@ -46,7 +46,7 @@ var part1 = function() {
     },0)
 
     var result = overlaps
-    // console.log(result)
+    // 6710
     $('#part1').append(input[i])
       .append('<br>&emsp;')
       .append(result)
@@ -148,7 +148,7 @@ var part2 = function () {
     },0)
 
     var result = overlaps
-    // console.log(result)
+    // 20121
     $('#part2').append(input[i])
       .append('<br>&emsp;')
       .append(result)

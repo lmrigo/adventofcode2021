@@ -30,7 +30,7 @@ var part1 = function() {
     var result = counter.reduce((acc,val) => {
       return acc + val
     })
-    // console.log(result)
+    // 379114
     $('#part1').append(input[i])
       .append('<br>&emsp;')
       .append(result)
@@ -65,7 +65,7 @@ var part2 = function () {
     var result = counter.reduce((acc,val) => {
       return acc + val
     })
-    // console.log(result)
+    // 1702631502303
     $('#part2').append(input[i])
       .append('<br>&emsp;')
       .append(result)

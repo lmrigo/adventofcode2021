@@ -29,7 +29,7 @@ var part1 = function() {
     }
 
     var result = horizontal * depth
-    // console.log(result)
+    // 1714950
     $('#part1').append(input[i])
       .append('<br>&emsp;')
       .append(result)
@@ -60,7 +60,7 @@ var part2 = function () {
     }
 
     var result = horizontal * depth
-    // console.log(result)
+    // 1281977850
     $('#part2').append(input[i])
       .append('<br>&emsp;')
       .append(result)

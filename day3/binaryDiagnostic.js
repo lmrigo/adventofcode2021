@@ -49,7 +49,7 @@ var part1 = function() {
     var eDec = parseInt(epsilonRate,2)
 
     var result = gDec * eDec
-    // console.log(result)
+    // 4006064
     $('#part1').append(input[i])
       .append('<br>&emsp;')
       .append(result)
@@ -113,7 +113,7 @@ var part2 = function () {
     var cDec = parseInt(CO2ScrubberRating,2)
 
     var result = oDec * cDec
-    // console.log(result)
+    // 5941884
     $('#part2').append(input[i])
       .append('<br>&emsp;')
       .append(result)
